@@ -15,5 +15,3 @@
      javascripting verify number-to-string.js
 */
 
-example = 128;
-console.log(example.toString());
