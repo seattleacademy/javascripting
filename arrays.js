@@ -14,4 +14,5 @@
 
      javascripting verify arrays.js
 */
-
+var pizzatoppings =['tomato','sauce','cheese'];
+console.log(pizzatoppings);
