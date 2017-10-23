@@ -20,9 +20,3 @@
 
      javascripting verify function-arguments.js
 */
-
-function myFunction(first,second,third){
-  return second*third+first;
-}
-
-console.log(myFunction(53,61,67));

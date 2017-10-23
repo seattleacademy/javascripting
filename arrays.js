@@ -15,5 +15,3 @@
      javascripting verify arrays.js
 */
 
-pizzaToppings = ["tomato sauce", "cheese", "pepperoni"];
-console.log(pizzaToppings);
